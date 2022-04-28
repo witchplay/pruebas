@@ -1,0 +1,30 @@
+body{
+    background: #F8CB2E;
+
+}
+
+.contain{
+    z-index: -2;
+    border-radius: 13px;
+}
+
+
+.contain1{
+    box-shadow: inset 0 0 2000px rgba(255, 255, 255, 0.377);
+   
+}
+
+.img{
+    height: 8%;
+    width: 8%;
+    object-fit: contain;
+}
+
+.bootom{
+    position: relative;
+    left: 48%;
+    
+}
+.inli{
+    display: inline-block;
+}
