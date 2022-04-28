@@ -124,7 +124,7 @@ pycups==2.0.1
 pydbus==0.6.0
 pydocstyle==2.1.1
 pyflakes==2.2.0
-Pygments==2.7.1
+Pygments==2.7.4
 PyGObject==3.40.1
 PyJWT==1.7.1
 pylint==2.7.2
