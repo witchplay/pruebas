@@ -19,9 +19,6 @@ chardet==4.0.0
 click==8.1.2
 cloudpickle==1.6.0
 colorama==0.4.4
-conda==4.3.16
-cryptography==3.3.2
-cupshelpers==1.0
 cycler==0.10.0
 dbus-python==1.2.16
 decorator==4.4.2
