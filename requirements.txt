@@ -32,10 +32,8 @@ et-xmlfile==1.0.1
 evdev==1.4.0
 filelock==3.6.0
 Flask==2.1.1
-greenlet==0.4.17
 gunicorn==20.1.0
 helpdev==0.7.1
-hidpidaemon==18.4.6
 html5lib==1.1
 httplib2==0.18.1
 idna==2.10
