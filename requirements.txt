@@ -19,7 +19,6 @@ chardet==4.0.0
 click==8.1.2
 cloudpickle==1.6.0
 colorama==0.4.4
-command-not-found==0.3
 conda==4.3.16
 cryptography==3.3.2
 cupshelpers==1.0
@@ -32,7 +31,6 @@ diff-match-patch==20200713
 distlib==0.3.4
 distro==1.5.0
 docutils==0.16
-ds4drv==0.5.1
 entrypoints==0.3
 et-xmlfile==1.0.1
 evdev==1.4.0
